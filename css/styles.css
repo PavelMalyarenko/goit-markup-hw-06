@@ -759,7 +759,7 @@ a {
   margin-right: 8.328px;
 }
 .modal-form-checkbox:checked + .modal-form-checkbox-label::before {
-  background-image: url(/images/icon-check.svg);
+  background-image: url(../images/icon-check.svg);
   background-color: var(--hover-foces-color);
   background-position: center;
   background-size: cover;
